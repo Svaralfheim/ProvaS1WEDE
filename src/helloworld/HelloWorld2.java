@@ -12,4 +12,6 @@ package helloworld;
  */
 public class HelloWorld2 {
     
+    System.out.println("Hello world");
+    
 }
